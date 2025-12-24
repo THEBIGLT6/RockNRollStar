@@ -3,7 +3,7 @@ Liam Truss\
 CompSci 4482 App 3/ 4
 
 ## Overview
-Rock 'N' Roll Star is intended to be a 3D beat 'em up style game where the user takes on as the main hero looking to secure all of the stolen records back from the suits. The goal of the player is to collect all 5 of the missing records while generating as much score as possible. Score is awarded for 1. Time of completion, 2. Damage dealt, 3. Records collected and 4. Health remaining. The game ends when the "Rock 'N' Roll Star" by Oasis record is collected. This is my submission for app3 and app4, to change languages simply go into the settings menu in the pause menu or main menu and change the language to french. The build of the game is located in the "build" directory.
+Rock 'N' Roll Star is intended to be a 3D beat 'em up style game where the user takes on as the main hero looking to secure all of the stolen records back from the suits. The goal of the player is to collect all 5 of the missing records while generating as much score as possible. Score is awarded for 1. Time of completion, 2. Damage dealt, 3. Records collected and 4. Health remaining. The game ends when the "Rock 'N' Roll Star" by Oasis record is collected. This is my submission for app3 and app4, to change languages simply go into the settings menu in the pause menu or main menu and change the language to french. 
 
 ## Controls
 WASD - player movement \
