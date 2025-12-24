@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a923086f485ea3a49975ac683c597bb2, type: 3}
+  m_Name: French
+  m_EditorClassIdentifier: 
+  m_entries:
+  - key: Resume
+    value: ' Continuer'
+  - key: Pause
+    value: Pause
+  - key: Settings
+    value: "Param\xE8tres"
+  - key: Restart
+    value: "Niveau de Red\xE9marrage"
+  - key: Menu
+    value: Retour au Menu Principal
+  - key: Quit
+    value: Quitter
+  - key: Respawn
+    value: "R\xE9appara\xEEtre"
+  - key: Score
+    value: 'Score final:'
+  - key: Fail
+    value: "A\xEFe ! Vous avez \xE9chou\xE9"
+  - key: Title
+    value: "\xC9toile du Rock 'N' Roll"
+  - key: Start
+    value: Commencer le Jeu
+  - key: Leaderboard
+    value: Classement
+  - key: Music
+    value: Musique
+  - key: Volume
+    value: "Param\xE8tres de Volume"
+  - key: Sound FX
+    value: Effets Sonores
+  - key: Language
+    value: Langue
+  - key: Sensitivity
+    value: "Sensibilit\xE9 de la Souris"
+  - key: Save Changes
+    value: Enregistrer les Modifications
+  - key: Win
+    value: "Biblical! Vous Avez S\xE9curis\xE9 les Dossiers."
+  - key: ResetLeaderboard
+    value: "R\xE9initialiser le Classement"
+  - key: HighScore
+    value: "Nouveau Score \xE9lev\xE9"
+  - key: SaveScore
+    value: Enregistrer le Score!
